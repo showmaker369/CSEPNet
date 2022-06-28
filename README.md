@@ -1,7 +1,7 @@
 # **CSEPNet**
 
 This project include the code and results for 'Cross-Scale Edge Purification Network for Salient Object Detection
-of Steel Defect Images', Measurement, accepted, 2022.   [**paper links**:](https://doi.org/10.1016/j.measurement.2022.111429
+of Steel Defect Images', Measurement, accepted, 2022.   [**paper links**:](https://doi.org/10.1016/j.measurement.2022.111429)
 
 ## Network Architecture
 
@@ -24,7 +24,7 @@ torchvision                        0.3.0
 
  We provide saliency maps of our CSEPNet ([VGG_backbone](https://pan.baidu.com/s/1vTg5Zqs3G4RMiElVk22shg) (code: 8gde )on SD-saliency-900 dataset.
 
-You can also download [dataset of our model](https://pan.baidu.com/s/1Y3fObBrnbpWkSEf3LvWXSA) (code: hlpi)).
+You can also download [dataset of our model](https://pan.baidu.com/s/1Y3fObBrnbpWkSEf3LvWXSA) (code: hlpi)) and [Pretrained Parameters](https://pan.baidu.com/s/1CajYCSMmy7pfteD4jRrkig ) (code: gxc4 ).
 
 
 ## Folders & Files
